@@ -22,3 +22,5 @@ Node Version Manager (NVM)  https://github.com/coreybutler/nvm-windows/releases/
   
   npm run dev
   
+  visit http://localhost:3000/
+  
