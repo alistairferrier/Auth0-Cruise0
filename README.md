@@ -3,8 +3,11 @@ Demo Installation
 Build Notes Here: https://github.com/alistairferrier/Auth0-Cruise0/blob/b20034941889c8422ec4715716e5729a0c1438ad/Cruise0%20Customisation%20Notes.docx
 
 Prerequisites:
+
 Node.js https://nodejs.org/en/ 
+
 Node Version Manager (NVM)  https://github.com/coreybutler/nvm-windows/releases/download/1.1.8/nvm-setup.zip
+
 1.	Install Node.js runtime https://nodejs.org/en/
 2.	Install the React SDK (installed by npm)
 3.	Install NVM  (node version manager)
