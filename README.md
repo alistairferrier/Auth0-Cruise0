@@ -13,7 +13,7 @@ Node Version Manager (NVM)  https://github.com/coreybutler/nvm-windows/releases/
 3.	Install NVM  (node version manager)
 4.	Visual Studio Code (maybe optional) https://code.visualstudio.com/  (Bash terminal option installed)
 
-5.	Commands for runtime setup (run from VS Code bash terminal)
+5.	Commands for runtime setup (run from VS Code bash terminal in app path)
 
   npm install
   
