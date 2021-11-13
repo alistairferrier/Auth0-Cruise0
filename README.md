@@ -1,6 +1,6 @@
 Demo Installation
 
-Build Notes Here: 
+Build Notes Here: https://github.com/alistairferrier/Auth0-Cruise0/blob/3b35711fed106eb7f08fa0d653c7ad3bf42796f2/Cruise0%20Demo%20Customisation%20Notes.docx
 
 Prerequisites:
 
